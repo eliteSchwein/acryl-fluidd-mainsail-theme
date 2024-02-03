@@ -1,7 +1,7 @@
 body {
     background-image: url('/server/files/config/.theme/background.jpg'), url('/server/files/config/.theme/background.png'), url('/server/files/config/.theme/background.gif'), url('/server/files/config/.fluidd-theme/background.jpg'), url('/server/files/config/.fluidd-theme/background.png'), url('/server/files/config/.fluidd-theme/background.gif');
-    background: rgb(0,48,73);
-    background: linear-gradient(34deg, rgba(0,48,73,1) 0%, rgba(9,32,121,1) 35%, rgba(0,125,255,1) 100%);
+    background: rgb(0,19,98);
+    background: linear-gradient(331deg, rgba(0,19,98,1) 0%, rgba(0,7,128,1) 56%, rgba(130,133,225,1) 100%);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -23,7 +23,7 @@ body {
 
 .theme--dark.v-sheet {
     background-color: rgba(0, 0, 0, 0.44)!important;
-    backdrop-filter: blur(10px);
+    /*backdrop-filter: blur(10px);*/
     border: none!important;
     box-shadow: none!important;
 }
@@ -71,7 +71,7 @@ body {
 .cm-gutters,
 .cm-editor
 {
-    backdrop-filter: blur(0px);
+    /*backdrop-filter: blur(0px);*/
     background-color: transparent !important;
     border: none!important;
     box-shadow: none!important;
