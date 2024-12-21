@@ -127,8 +127,7 @@ body {
 }
 
 .webcamImage {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-bottom: 30px;
     background-color: transparent!important;
     overflow: hidden;
 }
